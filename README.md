@@ -50,8 +50,6 @@
 
 ### 결과 비교
 
-| Original | Rectified |
-|----------|-----------|
-| ![](demo_0_original.png) | ![](demo_0_rectified.png) |
+![](demo_0.png)
 
 
