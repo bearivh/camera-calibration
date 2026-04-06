@@ -12,10 +12,6 @@
 
 ## 2. Camera Calibration
 
-### 사용 데이터
-- 체스보드 영상: `fisheye.mp4`
-- 사용 이미지 수: 7장
-- 체스보드 패턴: 7 x 6 (inner corners 기준)
 
 ### 캘리브레이션 결과
 
